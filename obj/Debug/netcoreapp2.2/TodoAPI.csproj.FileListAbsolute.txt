@@ -1,0 +1,14 @@
+D:\heritage\WebServices\projects\TodoAPI\bin\Debug\netcoreapp2.2\TodoAPI.deps.json
+D:\heritage\WebServices\projects\TodoAPI\bin\Debug\netcoreapp2.2\TodoAPI.runtimeconfig.json
+D:\heritage\WebServices\projects\TodoAPI\bin\Debug\netcoreapp2.2\TodoAPI.runtimeconfig.dev.json
+d:\heritage\WebServices\projects\TodoAPI\bin\Debug\netcoreapp2.2\TodoAPI.dll
+d:\heritage\WebServices\projects\TodoAPI\bin\Debug\netcoreapp2.2\TodoAPI.pdb
+d:\heritage\WebServices\projects\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.csprojAssemblyReference.cache
+d:\heritage\WebServices\projects\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.csproj.CoreCompileInputs.cache
+d:\heritage\WebServices\projects\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.RazorAssemblyInfo.cache
+d:\heritage\WebServices\projects\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.RazorAssemblyInfo.cs
+d:\heritage\WebServices\projects\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.AssemblyInfoInputs.cache
+d:\heritage\WebServices\projects\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.AssemblyInfo.cs
+d:\heritage\WebServices\projects\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.RazorTargetAssemblyInfo.cache
+d:\heritage\WebServices\projects\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.dll
+d:\heritage\WebServices\projects\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.pdb
